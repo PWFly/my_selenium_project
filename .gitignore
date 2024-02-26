@@ -1,0 +1,6 @@
+# Logs
+*.log
+
+# Byte-compiled
+__pycache__/
+*.pyc

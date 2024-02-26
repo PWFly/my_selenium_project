@@ -1,0 +1,27 @@
+{
+    "Sign Up Banner Impression":{
+        "product": "bump",
+        "platform": "desktop web",
+        "appBrowserView": "False",
+        "email": "None",
+        "userDecisionArea": "Bump interstitial ad", 
+        "trigger": "First time visiting bump",
+        "source": "Homepage",
+        "stage": "None",
+        "currentURL": "",
+        "selection": "Sign Up Banner Impression",
+        "gaSessionNumber": 10
+    },
+    
+    "Sign Up Interaction":{
+        "product": "bump",
+        "platform": "desktop web",
+        "appBrowserView": "False",
+        "email": "None",
+        "userDecisionArea": "Bump interstitial ad", 
+        "trigger": "First time visiting bump",
+        "source": "None",
+        "stage": "None",
+        "currentURL": "https://qa-www.thebump.com/topics/pregnancy-black-maternal-health"
+    }
+}
