@@ -23,9 +23,9 @@ This is automation test tools for Hugh's project.
 `python -m the.path.to.the.script`
 `docker run -it --rm -p 8080:8080 mitmproxy/mitmproxy`
 
-`docker run --rm \            
--v /Users/huli/Desktop/projects/my_selenium_project/helpers:/home/mitmproxy/helpers \
--v /Users/huli/Desktop/projects/my_selenium_project/sources:/home/mitmproxy/sources \
+`docker run --rm \
+-v /Users/hugh/workplace/my_selenium_project/helpers:/home/mitmproxy/helpers \
+-v /Users/hugh/workplace/my_selenium_project/sources:/home/mitmproxy/sources \
 -p 8080:8080 \
 mitmproxy/mitmproxy mitmdump -s /home/mitmproxy/helpers/mitmproxy_request_handler.py`
 
